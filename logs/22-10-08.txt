@@ -1,0 +1,51 @@
+[08-Oct-2022 16:09:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('posts')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[08-Oct-2022 16:09:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[08-Oct-2022 16:09:44 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('lectors')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[08-Oct-2022 16:19:53 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '?'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(38): Core\Router->dispatch('languages')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Languages.php' on line 22
+[08-Oct-2022 16:20:00 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '?'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(38): Core\Router->dispatch('languages')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Languages.php' on line 22
+[08-Oct-2022 16:21:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(38): Core\Router->dispatch('languages')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[08-Oct-2022 16:21:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(38): Core\Router->dispatch('languages')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[08-Oct-2022 16:27:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('posts')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[08-Oct-2022 16:27:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58

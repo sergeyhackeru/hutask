@@ -1,0 +1,2132 @@
+[09-Oct-2022 10:26:55 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to undefined method Core\FakeDB::buildData()' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(22): App\Models\Lector::getLectors()
+#1 [internal function]: App\Controllers\Lectors->indexAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Models\Lector.php' on line 15
+[09-Oct-2022 10:26:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:27:03 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to undefined method Core\FakeDB::buildData()' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(22): App\Models\Lector::getLectors()
+#1 [internal function]: App\Controllers\Lectors->indexAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Models\Lector.php' on line 15
+[09-Oct-2022 10:27:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:32:50 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(39): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 39, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 39
+[09-Oct-2022 10:32:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:34:26 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(40): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 40
+[09-Oct-2022 10:34:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:35:19 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(40): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 40
+[09-Oct-2022 10:35:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:38:07 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(40): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 40
+[09-Oct-2022 10:38:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:51:45 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(41): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 10:51:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:51:56 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(41): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 10:51:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:51:56 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(41): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 10:51:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:52:42 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: name' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(41): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 41, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 10:52:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 10:53:17 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 10:53:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:04 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 11:06:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:38 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:39 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:39 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:39 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:53 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:54 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:54 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:06:54 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:06:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:07:11 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:07:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:07:11 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:07:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:07:55 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:07:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:07:57 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:07:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:07:57 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 11:07:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:10:07 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ','' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 51
+[09-Oct-2022 11:10:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:10:20 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ','' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 51
+[09-Oct-2022 11:10:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:10:20 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ','' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 51
+[09-Oct-2022 11:10:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:14:22 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 11:14:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:14:39 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 11:14:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:14:40 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 11:14:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:14:40 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 11:14:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:16:58 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '.', expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 11:16:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:20:10 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_push() expects parameter 1 to be array, null given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 55, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(55): array_push(NULL, 'Java')
+#2 [internal function]: App\Controllers\Lectors::buildataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 11:20:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:25:50 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_push() expects parameter 1 to be array, int given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): array_push(1, 'makaka')
+#2 [internal function]: App\Controllers\Lectors::buildataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 11:25:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:27:34 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_push() expects parameter 1 to be array, int given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): array_push(1, 'apple', 'raspberry')
+#2 [internal function]: App\Controllers\Lectors::buildataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 11:27:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:28:59 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_push() expects parameter 1 to be array, int given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): array_push(1, 'apple', 'raspberry')
+#2 [internal function]: App\Controllers\Lectors::buildataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 11:28:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:31:52 Europe/Berlin] Uncaught exception: 'Error' with message: 'Unsupported operand types' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 11:31:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:32:10 Europe/Berlin] Uncaught exception: 'Error' with message: 'Unsupported operand types' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 11:32:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:32:16 Europe/Berlin] Uncaught exception: 'Error' with message: 'Unsupported operand types' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 11:32:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:33:16 Europe/Berlin] Uncaught exception: 'Error' with message: 'Unsupported operand types' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 11:33:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:36:40 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: Lecturers' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 11:36:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:39:38 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 11:39:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:40:11 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 11:40:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:40:12 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 11:40:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:40:12 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 11:40:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:40:12 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 11:40:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:23 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 48
+[09-Oct-2022 11:41:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:24 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 48
+[09-Oct-2022 11:41:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:52 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 11:41:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:52 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 11:41:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:52 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 11:41:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:52 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 11:41:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:53 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 11:41:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:53 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 11:41:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:41:53 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 11:41:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:46:20 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: asd' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(37): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 37, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 37
+[09-Oct-2022 11:46:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:46:21 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: asd' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(37): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 37, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 37
+[09-Oct-2022 11:46:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:50:11 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'foreach' (T_FOREACH)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 37
+[09-Oct-2022 11:50:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:56:45 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 39
+[09-Oct-2022 11:56:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:56:57 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 39
+[09-Oct-2022 11:56:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 11:56:57 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 39
+[09-Oct-2022 11:56:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:01:30 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to undefined function App\Controllers\arrat_push()' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 12:01:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:11:15 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 12:11:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:13:56 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(42): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 42, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 42
+[09-Oct-2022 12:13:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:17:33 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 12:17:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:18:00 Europe/Berlin] Uncaught exception: 'Error' with message: 'Using $this when not in object context' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 12:18:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:18:20 Europe/Berlin] Uncaught exception: 'Error' with message: 'Using $this when not in object context' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 12:18:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:19:47 Europe/Berlin] Uncaught exception: 'Error' with message: 'Using $this when not in object context' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 42
+[09-Oct-2022 12:19:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:20:03 Europe/Berlin] Uncaught exception: 'Error' with message: 'Using $this when not in object context' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 12:20:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:20:04 Europe/Berlin] Uncaught exception: 'Error' with message: 'Using $this when not in object context' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors::buildataAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 12:20:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:20:20 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: lectorLang' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(34): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(49): App\Controllers\Lectors::update_lector_language(1)
+#2 [internal function]: App\Controllers\Lectors::buildataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 34
+[09-Oct-2022 12:20:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:23:24 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'print_r' (T_STRING), expecting ';' or ','' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 41
+[09-Oct-2022 12:23:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:33:16 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_merge(): Expected parameter 2 to be an array, string given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_merge(): ...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): array_merge(Array, 'Java')
+#2 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(67): App\Controllers\Lectors::update_lector_language(Array, 1)
+#3 [internal function]: App\Controllers\Lectors::buildataAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 12:33:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:38:14 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'A non-numeric value encountered' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(48): Core\Error::errorHandler(2, 'A non-numeric v...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 48
+[09-Oct-2022 12:38:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:41:17 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 12:41:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:41:48 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 2' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 12:41:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:41:55 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 2' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 12:41:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:42:23 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 2' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 12:42:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:42:23 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 2' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 12:42:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:42:24 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 2' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 12:42:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:42:24 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 2' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors::buildataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('buildata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(35): Core\Router->dispatch('lectors')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 12:42:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:46:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('languages')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[09-Oct-2022 12:46:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:47:54 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('languages')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[09-Oct-2022 12:47:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 12:48:09 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('languages')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[09-Oct-2022 12:48:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 13:19:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('posts')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[09-Oct-2022 13:19:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 13:20:54 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to undefined method Core\FakeDB::queryLanguages()' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(34): App\Models\Language::getLanguages()
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Models\Language.php' on line 15
+[09-Oct-2022 13:20:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:31:02 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_map() expects parameter 1 to be a valid callback, function 'map_Spanish' not found or invalid function name' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_map() exp...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(43): array_map('map_Spanish', Array, Array)
+#2 [internal function]: App\Controllers\Lectors->builddataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 15:31:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:32:09 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined property: App\Controllers\Lectors::$map_Spanish' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(43): Core\Error::errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 15:32:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:34:26 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 15:34:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:38:23 Europe/Berlin] Uncaught exception: 'TypeError' with message: 'Argument 1 passed to App\Controllers\Lectors::map_Spanish() must be of the type int, array given, called in C:\xampp\htdocs\simpl\App\Controllers\Lectors.php on line 44' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): App\Controllers\Lectors->map_Spanish(Array, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 32
+[09-Oct-2022 15:38:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(TypeError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:39:25 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected ''map_Spanish'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 15:39:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:39:41 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined property: App\Controllers\Lectors::$map_Spanish' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 15:39:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:39:42 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined property: App\Controllers\Lectors::$map_Spanish' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 15:39:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:41:05 Europe/Berlin] Uncaught exception: 'ArgumentCountError' with message: 'Too few arguments to function App\Controllers\Lectors::map_Spanish(), 0 passed in C:\xampp\htdocs\simpl\App\Controllers\Lectors.php on line 44 and exactly 2 expected' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): App\Controllers\Lectors->map_Spanish()
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 32
+[09-Oct-2022 15:41:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ArgumentCountError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:49:45 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 15:49:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:55:18 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 0' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 15:55:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:55:28 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 0' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 15:55:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 15:55:29 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 0' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 15:55:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:00:00 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: a' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(49): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 16:00:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:00:03 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: a' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(49): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 16:00:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:10:51 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: a' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(51): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 51
+[09-Oct-2022 16:10:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:21:13 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 16:21:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:21:28 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 16:21:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:22:06 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 56
+[09-Oct-2022 16:22:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:22:06 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '}'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 56
+[09-Oct-2022 16:22:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:29:09 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined offset: 0' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(48): Core\Error::errorHandler(8, 'Undefined offse...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 48
+[09-Oct-2022 16:29:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:31:40 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(49): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 49, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 49
+[09-Oct-2022 16:31:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:31:51 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(50): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 50, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 50
+[09-Oct-2022 16:31:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:33:27 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'public' (T_PUBLIC)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 69
+[09-Oct-2022 16:33:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 16:52:05 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_push() expects parameter 1 to be array, null given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_push() ex...', 'C:\\xampp\\htdocs...', 50, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(50): array_push(NULL, 'sababba')
+#2 [internal function]: App\Controllers\Lectors->builddataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 50
+[09-Oct-2022 16:52:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:08:11 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:08:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:08:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:08:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:08:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:08:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:08:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:08:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:08:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:08:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:16 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:17 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:37 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:37 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:37 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:46 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:47 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:09:47 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newdata' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:09:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:13:41 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(55): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 55, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 55
+[09-Oct-2022 17:13:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:17:34 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '$a' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 58
+[09-Oct-2022 17:17:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:22:47 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: b' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(54): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 54, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 54
+[09-Oct-2022 17:22:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:25:36 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '$lector' (T_VARIABLE), expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 51
+[09-Oct-2022 17:25:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:25:37 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '$lector' (T_VARIABLE), expecting '('' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 51
+[09-Oct-2022 17:25:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:25:47 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected ':'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 51
+[09-Oct-2022 17:25:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:26:13 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected ':'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 50
+[09-Oct-2022 17:26:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:26:14 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected ':'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 50
+[09-Oct-2022 17:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:26:14 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected ':'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 50
+[09-Oct-2022 17:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:36:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('posts')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[09-Oct-2022 17:36:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:52:11 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: language' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 17:52:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:57:02 Europe/Berlin] Uncaught exception: 'TypeError' with message: 'Argument 1 passed to App\Controllers\Lectors::map_Spanish() must be of the type int, string given' 
+Stack trace: '#0 [internal function]: App\Controllers\Lectors->map_Spanish('enoki')
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): array_map(Array, Array)
+#2 [internal function]: App\Controllers\Lectors->builddataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 32
+[09-Oct-2022 17:57:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(TypeError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:57:57 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: replacement' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 17:57:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:58:03 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: replacement' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 17:58:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:58:55 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: replacement' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 17:58:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:58:56 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: replacement' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 17:58:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 17:58:56 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: replacement' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(45): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 45, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 45
+[09-Oct-2022 17:58:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:03:43 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_map(): Expected parameter 2 to be an array, int given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_map(): Ex...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): array_map(Array, 1, 'easdo')
+#2 [internal function]: App\Controllers\Lectors->builddataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 18:03:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:04:09 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'array_map(): Expected parameter 2 to be an array, int given' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'array_map(): Ex...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): array_map(Array, 1, 'easdo')
+#2 [internal function]: App\Controllers\Lectors->builddataAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 18:04:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:09:49 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(46): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 46
+[09-Oct-2022 18:09:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:11:54 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(43): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 18:11:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:13:28 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 18:13:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:13:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 18:13:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:13:39 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 18:13:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:13:46 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 18:13:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:13:47 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(44): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 44, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 44
+[09-Oct-2022 18:13:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:26:55 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'foreach' (T_FOREACH)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 18:26:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:27:12 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'foreach' (T_FOREACH)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 18:27:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:27:13 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'foreach' (T_FOREACH)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(53): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 43
+[09-Oct-2022 18:27:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ParseError))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:39:56 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:39:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:40:14 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:40:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:40:15 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: languages' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:40:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:41:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:41:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:41:51 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:41:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:42:27 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:42:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:42:28 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:42:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:42:28 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:42:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:43:25 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:43:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:43:26 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'languages'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(47): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 47, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 47
+[09-Oct-2022 18:43:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58
+[09-Oct-2022 18:47:44 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: newLEctor' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Lectors.php(58): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58, Array)
+#1 [internal function]: App\Controllers\Lectors->builddataAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('builddata', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Lectors.php' on line 58
+[09-Oct-2022 18:47:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Response::phpHTMLResponse() in C:\xampp\htdocs\simpl\Core\Error.php:58
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(ErrorException))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 58

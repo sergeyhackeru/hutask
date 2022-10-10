@@ -1,0 +1,58 @@
+
+[23-Sep-2021 14:59:02 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/index/das...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 14:59:18 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/index/das...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 14:59:25 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 14:59:41 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method makakaAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('makaka', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/makaka')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 27
+[23-Sep-2021 15:12:09 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('postsd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 15:12:17 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Postsd  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('postsd/adssad')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 73
+[23-Sep-2021 15:12:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('post')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 15:12:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Post  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('post/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 73
+[23-Sep-2021 15:12:55 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('post/')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 15:13:04 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 15:13:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 15:13:23 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 15:13:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[23-Sep-2021 15:14:18 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78

@@ -1,0 +1,110 @@
+[24-Sep-2021 11:15:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('potsez')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:16:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('potsez')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:19:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('potsez')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:19:45 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('asdasd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:19:49 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Asdasd  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('asdasd/asdasd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 73
+[24-Sep-2021 11:31:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:39:04 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:39:13 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(32): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(23): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts/index')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 32
+[24-Sep-2021 11:39:28 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts/index/')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:39:54 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(32): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 32, Array)
+#1 [internal function]: App\Controllers\Posts->indexAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(23): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts/index')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 32
+[24-Sep-2021 11:40:57 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '=>' (T_DOUBLE_ARROW)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\vendor\composer\ClassLoader.php(346): Composer\Autoload\includeFile('C:\\xampp\\htdocs...')
+#1 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\controllers...')
+#2 [internal function]: spl_autoload_call('App\\controllers...')
+#3 C:\xampp\htdocs\simpl\Core\Router.php(59): class_exists('App\\controllers...')
+#4 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts/index')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 30
+[24-Sep-2021 11:42:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method indexxAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('indexx', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts/indexx')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 27
+[24-Sep-2021 11:42:05 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('postx')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:42:09 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(24): Core\Router->dispatch('posts')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:44:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(25): Core\Router->dispatch('posts/')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 78
+[24-Sep-2021 11:58:10 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method addAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('add', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(25): Core\Router->dispatch('posts/add')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 27
+[24-Sep-2021 12:04:59 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Non-static method App\Models\Post::addNew() should not be called statically' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(37): Core\Error::errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 37, Array)
+#1 [internal function]: App\Controllers\Posts->addNewAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(23): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('addNew', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(25): Core\Router->dispatch('posts/add-new')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 37
+[24-Sep-2021 12:05:13 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Non-static method App\Models\Post::addNew() should not be called statically' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(38): Core\Error::errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 [internal function]: App\Controllers\Posts->addNewAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(23): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('addNew', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(25): Core\Router->dispatch('posts/add-new')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 38
+[24-Sep-2021 13:48:33 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: form' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(46): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 46, Array)
+#1 [internal function]: App\Controllers\Posts->addNewAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(23): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('addNew', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(25): Core\Router->dispatch('posts/add-new')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 46
+[24-Sep-2021 14:05:57 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Non-static method App\Models\Post::create() should not be called statically' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(48): Core\Error::errorHandler(8192, 'Non-static meth...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 [internal function]: App\Controllers\Posts->addNewAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(23): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(66): Core\Controller->__call('addNew', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(25): Core\Router->dispatch('posts/add-new')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 48

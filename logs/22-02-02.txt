@@ -1,0 +1,291 @@
+[02-Feb-2022 11:26:30 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'name' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php(6): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 6, Array)
+#1 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#4 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#5 [internal function]: App\Controllers\Posts->indexAction()
+#6 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#8 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#9 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php' on line 6
+[02-Feb-2022 11:26:45 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php(6): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 6, Array)
+#1 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#4 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#5 [internal function]: App\Controllers\Posts->indexAction()
+#6 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#8 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#9 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php' on line 6
+[02-Feb-2022 11:27:27 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php(6): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 6, Array)
+#1 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#4 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#5 [internal function]: App\Controllers\Posts->indexAction()
+#6 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#8 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#9 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php' on line 6
+[02-Feb-2022 11:28:27 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php(6): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 6, Array)
+#1 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(4): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#4 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#5 [internal function]: App\Controllers\Posts->indexAction()
+#6 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#8 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#9 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php' on line 6
+[02-Feb-2022 11:28:28 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php(6): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 6, Array)
+#1 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(4): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#4 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#5 [internal function]: App\Controllers\Posts->indexAction()
+#6 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#8 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#9 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php' on line 6
+[02-Feb-2022 11:28:37 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php(6): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 6, Array)
+#1 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(4): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#4 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#5 [internal function]: App\Controllers\Posts->indexAction()
+#6 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#8 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#9 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\loop.php' on line 6
+[02-Feb-2022 11:28:46 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(9): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 9
+[02-Feb-2022 11:28:47 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(9): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 9
+[02-Feb-2022 11:28:53 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(9): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 9, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 9
+[02-Feb-2022 11:29:18 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(12): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 12
+[02-Feb-2022 11:30:21 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(12): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 12
+[02-Feb-2022 11:31:53 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(16): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 16
+[02-Feb-2022 11:31:56 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(16): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 16
+[02-Feb-2022 11:32:38 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'id' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(16): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 16
+[02-Feb-2022 11:32:43 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(16): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 16
+[02-Feb-2022 11:33:37 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(16): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 16
+[02-Feb-2022 11:35:28 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'title' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(17): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 17
+[02-Feb-2022 11:35:43 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined variable: 1' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(17): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 17, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 17
+[02-Feb-2022 12:41:44 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Trying to get property 'id' of non-object' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(12): Core\Error::errorHandler(8, 'Trying to get p...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 12
+[02-Feb-2022 12:41:54 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Illegal string offset 'id'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php(12): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(18): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#4 [internal function]: App\Controllers\Posts->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\Posts\index.php' on line 12
+[02-Feb-2022 12:49:39 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/4')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:49:45 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/1')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:49:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/2')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:49:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/3')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:49:54 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/6')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:51:30 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/1')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:51:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/2')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:51:41 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/4')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:52:09 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/1')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:52:23 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/1')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:52:23 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/1')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:52:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/1')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[02-Feb-2022 12:52:27 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/1')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13

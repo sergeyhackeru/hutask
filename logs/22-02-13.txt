@@ -1,0 +1,326 @@
+[13-Feb-2022 14:02:22 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:02:59 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:04:50 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:04:56 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:05:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:05:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:06:19 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:06:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:07:13 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:08:40 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:08:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:09:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:09:22 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:09:22 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:12:14 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:12:14 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:13:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:14:04 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:14:21 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:14:22 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:15:59 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:15:59 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:15:59 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:16:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:16:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:16:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:16:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:16:50 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:17:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:17:13 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:17:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:17:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:21:19 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 14:29:30 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 16:06:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 16:06:49 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 16:07:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Post Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(50): Core\ErrorHandler::throwAndLogErr('No post found', 'Post Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('posts/123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 17:28:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('node_modules/no...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 17:28:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('node_modules/no...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 17:28:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('node_modules/no...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 17:28:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('node_modules/no...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 17:28:44 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('node_modules/no...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[13-Feb-2022 17:28:44 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('node_modules/no...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13

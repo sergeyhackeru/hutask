@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteBase /simpl
+
+RewriteCond %{THE_REQUEST} /public/([^\s?]*) [NC]
+RewriteRule ^ %1 [L,NE,R=302]
+RewriteRule ^(.*)$ public/index.php?$1 [L,QSA]
+
+RewriteCond %{REQUEST_URI} !^/uploads [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp|pdf)$ - [F,NC]

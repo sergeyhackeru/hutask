@@ -1,0 +1,39 @@
+[06-Feb-2022 16:26:53 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(34): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(64): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(28): Core\Router->dispatch('posts/red')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 34
+[06-Feb-2022 16:27:27 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(28): Core\Router->dispatch('posts/red/green')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[06-Feb-2022 16:31:36 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(34): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(68): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(28): Core\Router->dispatch('posts/red')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 34
+[06-Feb-2022 16:32:14 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Undefined index: id' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(34): Core\Error::errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(68): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(28): Core\Router->dispatch('posts/red')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 34
+[06-Feb-2022 16:32:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(28): Core\Router->dispatch('posts/red/xl')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[06-Feb-2022 16:32:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(28): Core\Router->dispatch('posts/red/xl')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13

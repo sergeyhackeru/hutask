@@ -1,0 +1,1515 @@
+[28-Jan-2022 12:06:45 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('23')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 67
+[28-Jan-2022 12:08:25 Europe/Berlin] Uncaught exception: 'ArgumentCountError' with message: 'Too few arguments to function Core\Response::phpHTMLResponse(), 1 passed in C:\xampp\htdocs\simpl\App\Controllers\Home.php on line 27 and exactly 3 expected' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Home.php(27): Core\Response::phpHTMLResponse('Home/index.php')
+#1 [internal function]: App\Controllers\Home->indexAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('index', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Response.php' on line 17
+[28-Jan-2022 12:12:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('buak')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 67
+[28-Jan-2022 12:12:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('sd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:12:37 Europe/Berlin] PHP Fatal error:  Uncaught Exception: App/Views/PhpHtml/500.php not found in C:\xampp\htdocs\simpl\Core\View.php:22
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\Error.php(54): Core\View::render('500.php')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\View.php on line 22
+[28-Jan-2022 12:13:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('sd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:13:08 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('sd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:19:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('sdf')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:19:19 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Sdf  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('sdf/sdf')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 62
+[28-Jan-2022 12:21:55 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('sdf')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:23:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('sdf')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:23:03 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('sdf')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:23:31 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method zurbabaAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('zurbaba', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/zurbaba')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:24:03 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method zurbabaAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('zurbaba', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/zurbaba')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:24:04 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method zurbabaAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('zurbaba', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/zurbaba')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:24:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 44
+[28-Jan-2022 12:24:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 44
+[28-Jan-2022 12:25:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:26:16 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:26:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Non-static method Exception::getMessage() cannot be called statically in C:\xampp\htdocs\simpl\Core\Error.php:54
+Stack trace:
+#0 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#1 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Error.php on line 54
+[28-Jan-2022 12:27:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:27:12 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: extract() expects parameter 1 to be array, string given in C:\xampp\htdocs\simpl\Core\View.php:12
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'extract() expec...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(12): extract('banana', 1)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(56): Core\View::render('404.php', 'banana')
+#3 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\View.php on line 12
+[28-Jan-2022 12:27:49 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:28:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:28:33 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Illegal string offset 'message' in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php:3
+Stack trace:
+#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php(3): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(19): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Error.php(59): Core\View::render('404.php', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php on line 3
+[28-Jan-2022 12:28:46 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:28:46 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Illegal string offset 'message' in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php:3
+Stack trace:
+#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php(3): Core\Error::errorHandler(2, 'Illegal string ...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(19): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Error.php(59): Core\View::render('404.php', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php on line 3
+[28-Jan-2022 12:29:53 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:29:53 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: extract() expects parameter 1 to be array, string given in C:\xampp\htdocs\simpl\Core\View.php:12
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler(2, 'extract() expec...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(12): extract('message', 1)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(59): Core\View::render('404.php', 'message', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\View.php on line 12
+[28-Jan-2022 12:31:15 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:31:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:31:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:31:29 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123asd...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:31:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123asd...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:31:37 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Undefined variable: posts in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php:5
+Stack trace:
+#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php(5): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(19): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('404.php', Array)
+#3 C:\xampp\htdocs\simpl\Core\Error.php(59): Core\Response::phpHTMLResponse('404.php', 'message', Array)
+#4 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#5 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php on line 5
+[28-Jan-2022 12:31:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123asd...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:32:43 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123asd...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:33:59 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:34:08 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:35:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postc')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 66
+[28-Jan-2022 12:35:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postc')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 64
+[28-Jan-2022 12:35:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No route matched' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postc')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 64
+[28-Jan-2022 12:36:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such thing' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postc')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 64
+[28-Jan-2022 12:36:31 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Postc  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postc/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 61
+[28-Jan-2022 12:36:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method zizikiAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('ziziki', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/ziziki')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:36:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:37:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/12')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:37:54 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:37:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/12')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 45
+[28-Jan-2022 12:38:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(55): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:40:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(57): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:42:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdasdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(59): Core\Controller->__call('asdasd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asdasd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:43:04 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such thing' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 62
+[28-Jan-2022 12:43:13 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 62
+[28-Jan-2022 12:43:35 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('sdf')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 62
+[28-Jan-2022 12:43:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('sdf')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 64
+[28-Jan-2022 12:44:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asdasdasd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 64
+[28-Jan-2022 12:44:15 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(61): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:45:17 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/2s')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 64
+[28-Jan-2022 12:45:35 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(61): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:10 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:19 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:29 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:30 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:46:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method dfgAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:47:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:47:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:47:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:47:55 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 63
+[28-Jan-2022 12:48:06 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdfAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:48:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdfAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(61): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:48:27 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdfAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(61): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:48:34 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdfAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(62): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:48:39 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('poss')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 65
+[28-Jan-2022 12:49:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(61): Core\Controller->__call('as', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:50:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 63
+[28-Jan-2022 12:50:18 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method contAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(60): Core\Controller->__call('cont', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/cont')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:51:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method contAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(59): Core\Controller->__call('cont', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/cont')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:52:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method contAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(59): Core\Controller->__call('cont', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/cont')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:54:31 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method contAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('cont', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/cont')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:54:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method contAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('cont', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/cont')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:54:44 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('zabbu')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 43
+[28-Jan-2022 12:54:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Zabbu  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('zabbu/bihhr')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 52
+[28-Jan-2022 12:55:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('zabbu/bihhr/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 43
+[28-Jan-2022 12:55:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method asdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:56:03 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No post found' 
+Stack trace: '#0 [internal function]: App\Controllers\Posts->postAction()
+#1 C:\xampp\htdocs\simpl\Core\Controller.php(20): call_user_func_array(Array, Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#3 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/567')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Controllers\Posts.php' on line 42
+[28-Jan-2022 12:56:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdfAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:58:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'No such Route' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf/f')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 43
+[28-Jan-2022 12:58:14 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('sd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 12:59:16 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(64): Core\Controller->__call('sd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 13:00:39 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Method sdAction not found in controller App\Controllers\Posts' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(64): Core\Controller->__call('sd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 24
+[28-Jan-2022 13:16:53 Europe/Berlin] Uncaught exception: 'Exception' with message: 'wtf r u doin?' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(68): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:17:30 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(68): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:19:08 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(72): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:19:16 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 47
+[28-Jan-2022 13:20:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Post  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 57
+[28-Jan-2022 13:22:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Post  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 57
+[28-Jan-2022 13:22:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Post  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 57
+[28-Jan-2022 13:22:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Post  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 57
+[28-Jan-2022 13:22:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Post  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post/asd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 57
+[28-Jan-2022 13:23:13 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postg')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:23:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postg')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:23:56 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postg')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:24:06 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postg')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:24:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:24:36 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Controller class  App\controllers\Post  not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('post/as')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 57
+[28-Jan-2022 13:24:54 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('as', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:25:29 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('as', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:25:29 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('as', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:25:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('as', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:25:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('as', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:25:40 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:26:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:26:24 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('dfg', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/dfg')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:27:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(79): Core\Controller->__call('sdf', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/sdf')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:27:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('s')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:27:56 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('s')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:28:03 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('s')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:28:15 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('s')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:28:15 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('s')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:29:23 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('adsd')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:29:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('dfgdfg')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:29:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(78): Core\Controller->__call('bue', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/bue')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:30:08 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(78): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/2/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:30:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(78): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/2/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:30:13 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Sory Dude Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/2/')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 48
+[28-Jan-2022 13:30:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(78): Core\Controller->__call('ht', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/2/ht')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:30:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(73): Core\Controller->__call('bukrka', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/bukrka')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 13:59:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Message for Uzza' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('Message for dev...', 'Message for Uzz...', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:00:35 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(50): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:00:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(50): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:02:21 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:09:09 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:09:23 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(64): Core\Controller->__call('e', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/e')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 14:09:39 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(64): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/1/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 14:10:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(65): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/1/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 14:10:46 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(65): Core\Controller->__call('asd', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/1/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 14:10:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Getaway Dude' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(65): Core\Controller->__call('agfh', Array)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/1/agfh')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Controller.php' on line 28
+[28-Jan-2022 14:28:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(39): Core\ErrorHandler::throwAndLogErr('No post 123123 ...', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:28:22 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(39): Core\ErrorHandler::throwAndLogErr('No post 123123 ...', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:28:23 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(39): Core\ErrorHandler::throwAndLogErr('No post 123123 ...', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:28:25 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(39): Core\ErrorHandler::throwAndLogErr('No post 123 fou...', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:28:30 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(39): Core\ErrorHandler::throwAndLogErr('No post 123 fou...', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:28:30 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(39): Core\ErrorHandler::throwAndLogErr('No post 123 fou...', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:28:49 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(39): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:29:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('p')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:30:13 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('p')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:30:18 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('1/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:30:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('1/asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:30:28 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('1/asdasd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:30:45 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(40): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/123123')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:30:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(40): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:30:51 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(40): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:31:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/6')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:31:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/11')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:32:41 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/11')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:32:41 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/11')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:32:41 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/11')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:32:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/11')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:33:25 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/11')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:33:25 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/11')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:33:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/3')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:34:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:34:46 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:34:54 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:35:12 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:35:19 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:35:29 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:35:46 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:35:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:35:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(41): Core\ErrorHandler::throwAndLogErr('No post found', 'Not Found', 404)
+#1 [internal function]: App\Controllers\Posts->postAction()
+#2 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('post', Array)
+#4 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5')
+#5 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:35:59 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayx' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asdActio...', 'Bad Gettawayx', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('asd', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5/asd')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:36:17 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asdActio...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('asd', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/5/asd')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:36:28 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asdActio...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('asd', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:36:28 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asdasdAc...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('asdasd', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asdasd')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:36:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method ertActio...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('ert', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/ert')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:36:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/ert/we')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:36:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method dsAction...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('ds', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/1/ds')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:38:46 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asAction...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('as', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:38:46 Europe/Berlin] PHP Fatal error:  Uncaught Exception: App/Views/PhpHtml/505.php not found in C:\xampp\htdocs\simpl\Core\View.php:22
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('505.php', Array)
+#1 C:\xampp\htdocs\simpl\Core\Error.php(54): Core\Response::phpHTMLResponse('505.php', 'message 505', 'Bad Gettaway')
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\View.php on line 22
+[28-Jan-2022 14:39:03 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asAction...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('as', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:39:03 Europe/Berlin] PHP Fatal error:  Uncaught Exception: App/Views/PhpHtml/505.php not found in C:\xampp\htdocs\simpl\Core\View.php:22
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('505.php', Array)
+#1 C:\xampp\htdocs\simpl\Core\Error.php(54): Core\Response::phpHTMLResponse('505.php', 'message . 505 ....', 'Bad Gettaway')
+#2 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#3 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\View.php on line 22
+[28-Jan-2022 14:39:19 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asAction...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('as', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:39:35 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asAction...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('as', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:39:36 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asAction...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('as', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/as')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:41:44 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:41:44 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Undefined variable: message in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php:3
+Stack trace:
+#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php(3): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(19): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('404.php', Array)
+#3 C:\xampp\htdocs\simpl\Core\Error.php(54): Core\Response::phpHTMLResponse('404.php', 'response_data', Array)
+#4 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#5 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php on line 3
+[28-Jan-2022 14:42:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:42:48 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Undefined variable: message in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php:3
+Stack trace:
+#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php(3): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(19): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('404.php', Array)
+#3 C:\xampp\htdocs\simpl\Core\Error.php(57): Core\Response::phpHTMLResponse('404.php', 'response_data', Array)
+#4 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#5 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php on line 3
+[28-Jan-2022 14:42:49 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:42:49 Europe/Berlin] PHP Fatal error:  Uncaught ErrorException: Undefined variable: message in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php:3
+Stack trace:
+#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php(3): Core\Error::errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3, Array)
+#1 C:\xampp\htdocs\simpl\Core\View.php(19): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('404.php', Array)
+#3 C:\xampp\htdocs\simpl\Core\Error.php(57): Core\Response::phpHTMLResponse('404.php', 'response_data', Array)
+#4 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#5 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\404.php on line 3
+[28-Jan-2022 14:43:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:44:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:45:05 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:45:23 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:45:53 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('postd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:46:09 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asdActio...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('asd', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:46:17 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(26): Core\ErrorHandler::throwAndLogErr('Method asdActio...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('asd', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/asd')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:47:26 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('pasd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:47:32 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('pasd/12')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:47:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('pots/12')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 14:47:41 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('pots/sd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:47:36 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('styles.css')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:34 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/admi...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:34 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:34 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/admi...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/admi...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:43 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts/')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/admi...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:51:48 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:52:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:52:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/admi...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:52:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/admi...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:22 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:22 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:40 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:53:50 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 15:55:10 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected '?>'' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#2 [internal function]: App\Controllers\Posts->indexAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('posts')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 9
+[28-Jan-2022 15:55:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected '?>' in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 9
+[28-Jan-2022 15:55:10 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[28-Jan-2022 15:55:42 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('assets/css/bund...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:02:13 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'echo' (T_ECHO)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#2 [internal function]: App\Controllers\Home->indexAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 4
+[28-Jan-2022 16:02:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 4
+[28-Jan-2022 16:02:13 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[28-Jan-2022 16:02:30 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'echo' (T_ECHO)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#2 [internal function]: App\Controllers\Home->indexAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 4
+[28-Jan-2022 16:02:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 4
+[28-Jan-2022 16:02:30 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[28-Jan-2022 16:02:30 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'echo' (T_ECHO)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#2 [internal function]: App\Controllers\Home->indexAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 4
+[28-Jan-2022 16:02:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 4
+[28-Jan-2022 16:02:30 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[28-Jan-2022 16:02:30 Europe/Berlin] Uncaught exception: 'ParseError' with message: 'syntax error, unexpected 'echo' (T_ECHO)' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#1 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#2 [internal function]: App\Controllers\Home->indexAction()
+#3 C:\xampp\htdocs\simpl\Core\Controller.php(22): call_user_func_array(Array, Array)
+#4 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#5 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('')
+#6 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 4
+[28-Jan-2022 16:02:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 4
+[28-Jan-2022 16:02:30 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[28-Jan-2022 16:46:14 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:46:27 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('admin/posts')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:46:33 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('admin/posts/add...')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:47:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(29): Core\Router->dispatch('admin/users')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:48:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('admin/users')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:48:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('admin/users')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:48:21 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('admin/users')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:48:25 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('admin/')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:49:43 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('admin/')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:49:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:50:31 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:50:34 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:50:50 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:50:52 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:50:54 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:51:38 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:51:40 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:51:43 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:51:56 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:51:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:52:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(32): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:52:56 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:53:16 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/index')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:53:20 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:53:43 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:53:57 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:54:14 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:55:05 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('admin/admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:55:35 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('admin/admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:55:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('admin/admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:55:39 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('admin/')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:55:58 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(34): Core\Router->dispatch('admin')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:56:49 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/users')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:57:36 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/users')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[28-Jan-2022 16:57:37 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettawayz' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettawayz', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(33): Core\Router->dispatch('admin/users')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13

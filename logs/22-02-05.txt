@@ -1,0 +1,78 @@
+[05-Feb-2022 16:18:07 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 16:18:10 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 16:19:56 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('bananza')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 16:20:03 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(54): Core\ErrorHandler::throwAndLogErr('Controller clas...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('bananza/manana')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 16:20:08 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(47): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 16:22:27 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Bad Gettaway' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Controller.php(25): Core\ErrorHandler::throwAndLogErr('Method addActio...', 'Bad Gettaway', 505)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(62): Core\Controller->__call('add', Array)
+#2 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/add')
+#3 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 16:22:31 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/addNew')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 16:22:40 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('posts/2/addNew')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 20:34:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(48): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 20:35:09 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(53): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(26): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 20:36:20 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'preg_match(): Compilation failed: two named subpatterns have the same name (PCRE2_DUPNAMES not set) at offset 46' 
+Stack trace: '#0 [internal function]: Core\Error::errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 34, Array)
+#1 C:\xampp\htdocs\simpl\Core\Router.php(34): preg_match('/^(?P<controlle...', 'asd', Array)
+#2 C:\xampp\htdocs\simpl\Core\Router.php(51): Core\Router->match('asd')
+#3 C:\xampp\htdocs\simpl\public\index.php(28): Core\Router->dispatch('asd')
+#4 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Router.php' on line 34
+[05-Feb-2022 20:37:10 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(53): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(27): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 20:43:55 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(53): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(27): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 20:44:10 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(53): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(27): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[05-Feb-2022 20:44:11 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(53): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(27): Core\Router->dispatch('asd')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13

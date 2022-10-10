@@ -1,0 +1,866 @@
+[12-Feb-2022 15:23:27 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:23:46 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:23:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:23:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:23:47 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:24:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:24:00 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:24:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:24:01 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:24:05 Europe/Berlin] Uncaught exception: 'Exception' with message: 'Not Found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\Router.php(46): Core\ErrorHandler::throwAndLogErr('No route mached', 'Not Found', 404)
+#1 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('xoxo')
+#2 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\ErrorHandler.php' on line 13
+[12-Feb-2022 15:55:27 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(35): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 35
+[12-Feb-2022 15:56:59 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(35): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 35
+[12-Feb-2022 16:07:03 Europe/Berlin] Uncaught exception: 'ErrorException' with message: 'Array to string conversion' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(35): Core\Error::errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 35, Array)
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 35
+[12-Feb-2022 16:21:39 Europe/Berlin] Uncaught exception: 'Error' with message: 'Access to undeclared static property: Core\Config::$app_public_info' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php(8): Core\Config::get_app_public_info('ROOT_DIR')
+#1 C:\xampp\htdocs\simpl\Core\View.php(17): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#3 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#6 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#7 C:\xampp\htdocs\simpl\public\index.php(37): Core\Router->dispatch('')
+#8 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\Config.php' on line 59
+[12-Feb-2022 16:21:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Access to undeclared static property: Core\Config::$app_public_info in C:\xampp\htdocs\simpl\Core\Config.php:59
+Stack trace:
+#0 C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php(8): Core\Config::get_app_public_info('ROOT_DIR')
+#1 C:\xampp\htdocs\simpl\Core\View.php(17): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#3 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#4 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#5 {main}
+  thrown in C:\xampp\htdocs\simpl\Core\Config.php on line 59
+[12-Feb-2022 16:22:01 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to undefined method Core\Config::get_app_public_info()' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(37): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 16:22:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Config::get_app_public_info() in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 16:22:58 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to undefined method Core\Config::get_app_public_info()' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(37): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 9
+[12-Feb-2022 16:22:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Core\Config::get_app_public_info() in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:9
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 9
+[12-Feb-2022 17:15:20 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Configz' not found' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 35
+[12-Feb-2022 17:15:34 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Configz' not found' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 35
+[12-Feb-2022 17:15:35 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Configz' not found' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 35
+[12-Feb-2022 17:15:48 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:15:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:15:50 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:15:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:15:54 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:15:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:15:54 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:15:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:10 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:10 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:10 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:18 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:41 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:41 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Posts/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Posts.php(25): Core\Response::phpHTMLResponse('Posts/index.php', 'posts', Array)
+#3 [internal function]: App\Controllers\Posts->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('posts')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:43 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:50 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:16:54 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:16:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:05 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:31 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:31 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:33 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:33 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(39): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:40 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 35
+[12-Feb-2022 17:17:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:52 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(36): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:17:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:18:01 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:18:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:18:02 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:18:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:18:02 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:18:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:18:02 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:18:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:18:12 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:18:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Core\Config' not found in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php:8
+Stack trace:
+#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('500.php', Array)
+#2 C:\xampp\htdocs\simpl\Core\Error.php(58): Core\Response::phpHTMLResponse('500.php', 'response_data', Array)
+#3 [internal function]: Core\Error::exceptionHandler(Object(Error))
+#4 {main}
+  thrown in C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php on line 8
+[12-Feb-2022 17:18:38 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:18:38 Europe/Berlin] PHP Fatal error:  Cannot declare class Core\Configz, because the name is already in use in C:\xampp\htdocs\simpl\Core\Config.php on line 5
+[12-Feb-2022 17:18:38 Europe/Berlin] Uncaught exception: 'Error' with message: 'Class 'Core\Config' not found' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\Core\View.php(17): require()
+#1 C:\xampp\htdocs\simpl\Core\Response.php(18): Core\View::render('Home/index.php', Array)
+#2 C:\xampp\htdocs\simpl\App\Controllers\Home.php(19): Core\Response::phpHTMLResponse('Home/index.php', 'homedata', 'homedata')
+#3 [internal function]: App\Controllers\Home->indexAction()
+#4 C:\xampp\htdocs\simpl\Core\Controller.php(21): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\simpl\Core\Router.php(63): Core\Controller->__call('index', Array)
+#6 C:\xampp\htdocs\simpl\public\index.php(30): Core\Router->dispatch('')
+#7 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\App\Views\PhpHtml\header.php' on line 8
+[12-Feb-2022 17:18:38 Europe/Berlin] PHP Fatal error:  Cannot declare class Core\Configz, because the name is already in use in C:\xampp\htdocs\simpl\Core\Config.php on line 5
+[12-Feb-2022 18:13:49 Europe/Berlin] Uncaught exception: 'Error' with message: 'Cannot instantiate abstract class Core\DB' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 34
+[12-Feb-2022 18:13:50 Europe/Berlin] Uncaught exception: 'Error' with message: 'Cannot instantiate abstract class Core\DB' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 34
+[12-Feb-2022 21:10:36 Europe/Berlin] Uncaught exception: 'Error' with message: 'Access to undeclared static property: Core\DB::$_query' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(38): Core\DB::query('SELECT username...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\DB.php' on line 39
+[12-Feb-2022 21:11:47 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function prepare() on null' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(38): Core\DB::query('SELECT username...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\DB.php' on line 39
+[12-Feb-2022 21:12:07 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function prepare() on null' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(38): Core\DB::query('SELECT username...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\DB.php' on line 39
+[12-Feb-2022 21:12:08 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function prepare() on null' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(38): Core\DB::query('SELECT username...')
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\DB.php' on line 39
+[12-Feb-2022 21:12:51 Europe/Berlin] Uncaught exception: 'Error' with message: 'Non-static method PDO::query() cannot be called statically' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 38
+[12-Feb-2022 21:24:18 Europe/Berlin] Uncaught exception: 'Error' with message: 'Cannot instantiate abstract class Core\DB' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(38): Core\DB::getInstance()
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\DB.php' on line 32
+[12-Feb-2022 21:24:34 Europe/Berlin] Uncaught exception: 'Error' with message: 'Cannot instantiate abstract class Core\DB' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(38): Core\DB::getInstance()
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\DB.php' on line 32
+[12-Feb-2022 21:26:03 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to private Core\DB::__construct() from invalid context' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 38
+[12-Feb-2022 21:55:14 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function error() on bool' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 41
+[12-Feb-2022 21:55:27 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function error() on bool' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 41
+[12-Feb-2022 21:55:30 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function error() on bool' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 41
+[12-Feb-2022 21:56:07 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function error() on bool' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 41
+[12-Feb-2022 21:56:07 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function error() on bool' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 41
+[12-Feb-2022 21:57:42 Europe/Berlin] Uncaught exception: 'Error' with message: 'Call to a member function error() on bool' 
+Stack trace: '#0 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\public\index.php' on line 41
+[12-Feb-2022 22:02:58 Europe/Berlin] Uncaught exception: 'Error' with message: 'Cannot instantiate abstract class Core\DB' 
+Stack trace: '#0 C:\xampp\htdocs\simpl\public\index.php(39): Core\DB::getInstance()
+#1 {main} 
+Trown in : 'C:\xampp\htdocs\simpl\Core\DB.php' on line 29
